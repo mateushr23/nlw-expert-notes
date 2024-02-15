@@ -1,6 +1,6 @@
 <h1 align="center"> NLW Expert Notes </h1>
 
-Projeto realizado no evento NLW Expert da [Rocketseat](https://www.rocketseat.com.br) com o objetivo de aprofundar os conhecimentos em React.js e JavaScript.
+Projeto realizado no evento NLW Expert da [Rocketseat](https://www.rocketseat.com.br) com o objetivo de aprofundar os conhecimentos em React.js e JavaScript. A aplicação consiste em um quadro de notas em que as notas podem ser gravadas manualmente em forma de texto ou em áudio transcrito.
 
 <p align="center">
   <img alt="nlwexpert" src=".github/preview.png" width="100%">
